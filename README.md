@@ -16,6 +16,7 @@ Aggregate functions,
 
 Subqueries
 
+
 2. Advanced SQL
 
 Window functions,
@@ -28,11 +29,13 @@ Case statements,
 
 Complex joins & nested queries
 
+
 3. SQL Project
 
 A hands-on data analysis project applying SQL concepts to solve real-world business problems.
 
 Includes:
+
   Data cleaning,
   
   Exploratory analysis,
