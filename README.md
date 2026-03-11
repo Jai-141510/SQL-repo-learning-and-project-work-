@@ -1,45 +1,12 @@
-This repository contains my structured SQL learning journey covering fundamentals, advanced concepts, and a real-world project.
+# SQL Learning Repository
 
-Contents - 
+SQL concepts I picked up from scratch, organized into three sections.
 
-1. SQL Basics
+## Basics
+SELECT, WHERE, GROUP BY, HAVING, ORDER BY, JOIN types (INNER, LEFT, RIGHT, ANTI), aggregate functions, and subqueries. The core syntax that most everything else builds on.
 
-SELECT statements
+## Advanced SQL
+Window functions, CTEs, indexing, CASE statements, complex joins, and nested queries —> the parts that took a few more passes to get comfortable with.
 
-WHERE, GROUP BY, HAVING,
-
-ORDER BY,
-
-Joins (INNER, LEFT, RIGHT, ANTI),
-
-Aggregate functions,
-
-Subqueries
-
-
-2. Advanced SQL
-
-Window functions,
-
-CTEs (Common Table Expressions),
-
-Indexing concepts,
-
-Case statements,
-
-Complex joins & nested queries
-
-
-3. SQL Project
-
-A hands-on data analysis project applying SQL concepts to solve real-world business problems.
-
-Includes:
-
-  Data cleaning,
-  
-  Exploratory analysis,
-  
-  KPI calculations,
-  
-  Business insights generation
+## Project
+A hands-on data analysis project using real business questions. Includes data cleaning, exploratory analysis, KPI calculations, and deriving business insights from the results.
